@@ -1,0 +1,63 @@
+.container {
+
+    text-align: center;
+    padding-bottom: 20px;
+    text-align: -webkit-center;
+}
+
+
+
+}
+
+ wrapper { 
+    color: white;
+}
+
+body {
+    background-color: rgb(66, 60, 90);
+  }
+
+.game {
+    border: 5px dotted darkblue;
+    margin: 10px 50px 30px 50px;
+    padding: 15px;
+    background-color: lightyellow;
+    color: darkblue;
+    max-width: 916px;
+    
+    
+
+}
+
+ .userGuess, .computerGuess {
+    font-weight: bold;
+    font-size: 20px;
+    color: darkred;
+}
+.scoreBoard {
+    border: 4px solid white;
+    background-color: rgb(16, 10, 95);
+    padding: 15px 0px 15px 20px;
+    margin-top: 15px;
+    margin: 10px 50px 10px 50px;
+    text-align: center;
+    color: white;
+    max-width: 916px;
+
+
+
+
+    /* display: flex; */
+    
+}
+button {
+    background-color: lightyellow;
+}
+
+/* .box{
+ 
+
+    background-color: purple;
+    position: absolute;
+    text-align: center;
+} */
